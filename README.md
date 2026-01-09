@@ -94,11 +94,11 @@ pio device monitor -b 9600
 ---
 
 ## 📚 What I Learned
-- Interfacing a 16x2 LCD using the HD44780 protocol
-- Designing and documenting pinout, wiring, and schematic
-- Handling button input using pull-up configuration
-- Implementing timing-based logic in an embedded system
-- Structuring a clean and professional GitHub repository for embedded projects
+- Sensor interfacing and data acquisition for temperature and humidity monitoring  
+- Timing-driven logic to avoid blocking delays in embedded systems  
+- Digital I/O handling, including button input with pull-up configuration  
+- Display integration for real-time data visualization  
+- Hardware documentation and professional GitHub project organization  
 
 ---
 
