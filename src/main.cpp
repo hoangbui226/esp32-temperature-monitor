@@ -50,6 +50,6 @@ void loop() {
     oled_render_data(temp, humid, isFahrenheit);
     Serial.printf("Temp: %.1f | Hum: %.1f\n", temp, humid);
   }
-  delay(100);
+  delay(1000);
 
 }
